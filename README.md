@@ -1,3 +1,11 @@
+<img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/11165123-6911-4d3f-8b53-e025053d1831" />
+
+<img width="1548" height="855" alt="image" src="https://github.com/user-attachments/assets/ea633976-bb33-4a1a-97d7-b51c2c2e4f0f" />
+
+<img width="1557" height="332" alt="image" src="https://github.com/user-attachments/assets/be1c8e10-9ed9-4c53-9e43-a015189170e4" />
+
+<img width="1485" height="819" alt="image" src="https://github.com/user-attachments/assets/a96c6418-39a5-48cb-889e-58281a0e78c1" />
+
 AI Ops Assistant: A multi-agent AI system that accepts natural language tasks, plans execution steps, calls real APIs, and returns structured results. Built with LLM-powered reasoning and third-party API integrations.
 
 Architecture:
@@ -154,3 +162,4 @@ example prompts:
 
 Find top java projects and also weather in delhi
 Find top python starred projects and also weather in banglore"# ai_ops_assistant" 
+
